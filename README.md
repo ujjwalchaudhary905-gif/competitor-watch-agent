@@ -8,6 +8,11 @@ Built for the AWS *"Agents for Humans"* hackathon (Professional Agents track) wi
 [Strands Agents SDK](https://strandsagents.com/), using Anthropic Claude directly as
 the model provider — no AWS Bedrock, no billed AWS services required to run it.
 
+> Built entirely during the hackathon submission period. No pre-existing code was
+> incorporated beyond standard open-source frameworks/libraries (Strands Agents SDK,
+> the Anthropic SDK, Streamlit, Playwright, BeautifulSoup, SQLite — all used under
+> their own open-source licenses, no proprietary or third-party project code included).
+
 ## The problem
 
 A small business owner knows they should be watching their competitors — pricing
