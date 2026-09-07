@@ -20,7 +20,7 @@ flowchart TD
     FIND --> B
 
     B -->|"all findings"| H["prioritize_findings<br/>(drops competitor_relevant=false in Python, before ranking)"]
-    H --> I[recommend_actions<br/>action_type: ship_this_week | decision_to_evaluate]
+    H --> I["recommend_actions<br/>action_type: ship_this_week or decision_to_evaluate"]
     I --> J[Final report to business owner]
 
     B -->|"once per competitor"| P2[research_company_profile<br/>own About/Team page]
