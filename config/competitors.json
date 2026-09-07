@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tcfcanadaprep",
+    "name": "TCF Canada Prep",
+    "urls": [
+      "https://tcfcanadaprep.com/",
+      "https://tcfcanadaprep.com/blog"
+    ]
+  },
+  {
+    "id": "tcfcanada",
+    "name": "Reussir TCF Canada (tcfcanada.com)",
+    "urls": [
+      "https://tcfcanada.com/"
+    ]
+  },
+  {
+    "id": "reussirtcfcanadahyphen",
+    "name": "Reussir TCF Canada (reussir-tcfcanada.com)",
+    "urls": [
+      "https://reussir-tcfcanada.com/",
+      "https://reussir-tcfcanada.com/blog"
+    ]
+  },
+  {
+    "id": "globalexam",
+    "name": "GlobalExam",
+    "urls": [
+      "https://global-exam.com/blog"
+    ]
+  }
+]

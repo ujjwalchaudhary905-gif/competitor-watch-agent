@@ -1,0 +1,3 @@
+-r requirements.txt
+streamlit>=1.60.0
+pandas>=2.0.0
